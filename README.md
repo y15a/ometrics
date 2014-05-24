@@ -13,8 +13,9 @@ ometrics has been started with a simple goal of monitoring how much you code - r
 
 Usage
 --------
-$ # do all the settings, then,
-$ python main.py
+
+    $ # do all the settings, then,
+    $ python main.py
 
 
 Settings
