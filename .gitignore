@@ -1,0 +1,13 @@
+# python specific
+*.pyc
+*.pyo
+
+# ignore hidden files and backup files
+.*
+*~
+
+# but allow .gitignore
+!.gitignore
+!.gitattributes
+!.gitkeep
+
