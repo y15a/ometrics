@@ -14,9 +14,11 @@ ometrics has been started with a simple goal of monitoring how much you code - r
 Usage
 --------
 
+    $ pip install -r requirements.txt
     $ # do all the settings, then,
     $ python main.py
 
+Use cron or equivalent for automatic & periodic monitoring.
 
 Settings
 --------------
