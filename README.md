@@ -6,7 +6,7 @@ Quantify how much you code.
 ometrics has been started with a simple goal of monitoring how much you code - regardless of what project you are working on right now. Its core operations are:
 
 1. Scan pre-defined directories for git repositories
-2. Looks for recent commits
+2. Looks for recent commits made by you
 3. Compiles stats
 4. Send report via Email
 
