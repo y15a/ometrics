@@ -31,3 +31,7 @@ Current options are:
 * _USE_HTML_ - Boolean value denoting whether HTML email is used or not. HTML version is styled using Twitter Bootstrap. Default is True.
 * _EMAIL_SETUP_ - A dict containing connection & authentication details for the SMTP server of your choice.
 
+
+Requirements
+---------------
+GitPython, Jinja2, Unipath, requests. For version info see requirements.txt
